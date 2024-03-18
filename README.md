@@ -7,4 +7,4 @@
 
 💞️ - Currently looking for a full-time software engineering position. Let's connect: https://www.linkedin.com/in/milosz-dabrowski/
 
-📫 - You can reach me through my school email: mdabro6@illinois.edu, or my personal email: mildab141@gmail.com
+📫 - You can reach me through my email: mildab141@gmail.com
