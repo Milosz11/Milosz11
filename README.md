@@ -1,10 +1,10 @@
 
 👋 - Hello there, I’m @Milosz11
 
-👀 - I love to ponder the universe, lift some heavy weights, learn how our world works, and talk about science-y stuff.
+👀 - I love to ponder the universe, learn about history and how our world works, and talk about science-y stuff.
 
-🌱 - I’m currently learning about functional programming.
+🌱 - I’m currently modding for Cities Skylines and learning Brazilian Jui Jitsu.
 
-💞️ - Currently looking for a full-time software engineering position. Let's connect: https://www.linkedin.com/in/milosz-dabrowski/
+💞️ - Actively looking for a full-time software engineering position. Let's connect: https://www.linkedin.com/in/milosz-dabrowski/
 
 📫 - You can reach me through my email: mildab141@gmail.com
