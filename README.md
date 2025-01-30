@@ -3,8 +3,8 @@
 
 🔭 - I like to learn about space, history, and city and transportation planning.
 
-🌱 - I’m currently learning Android app development.
+🌱 - I’m currently creating a full stack Node app that runs the Star Wars Villainous card game in a browser.
 
-💻 - I am actively looking for a full-time software engineering position. Let's connect: https://www.linkedin.com/in/milosz-dabrowski/
+🎮 - I enjoy playing video games, reading literature, and anything Star Wars!
 
-📫 - You can also reach me through my email: mildab141@gmail.com
+💻 - Let's connect: https://www.linkedin.com/in/milosz-dabrowski/
